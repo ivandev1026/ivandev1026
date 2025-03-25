@@ -51,22 +51,22 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliavv51&show_icons=true&locale=en&layout=compact" alt="anjaliavv51" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandev1026&show_icons=true&locale=en&layout=compact" alt="ivandev1026" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliavv51&show_icons=true&locale=en" alt="anjaliavv51" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandev1026&show_icons=true&locale=en" alt="ivandev1026" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliavv51&" alt="anjaliavv51" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivandev1026&" alt="ivandev1026" /></p>
 
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />Profile Viewer's</h4>
   
   <div align="center">
-    <img src="https://profile-counter.glitch.me/anjaliavv51/count.svg?"  />
+    <img src="https://profile-counter.glitch.me/ivandev1026/count.svg?"  />
   </div>
 
   <div align="center">
     <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" /> My Contributions </h2>
-  <img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake.svg" alt="light">
-  <!--img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake-dark.svg" alt="dark"-->
+  <img src="https://github.com/ivandev1026/ivandev1026/blob/output/github-contribution-grid-snake.svg" alt="light">
+  <!--img src="https://github.com/ivandev1026/ivandev1026/blob/output/github-contribution-grid-snake-dark.svg" alt="dark"-->
   </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
